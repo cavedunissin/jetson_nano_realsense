@@ -1,7 +1,7 @@
 # 透過Jetson Nano 連接 intel Realsense D435i 進行目標偵測與測距
 
 | 作者      | 所屬單位 |
-| ---       | ---- | ----
+| ---       | ---- |
 | Jiunnlin  | Cavedu 教育團隊 |  
 
 ----------
