@@ -1,5 +1,11 @@
 # 透過Jetson Nano 連接 intel Realsense D435i 進行目標偵測與測距
 
+| 作者      | 所屬單位 |
+| ---       | ---- | ----
+| Jiunnlin  | Cavedu 教育團隊 |  
+
+----------
+
 ## 環境設定
 ### 安裝Tensorflow Lite Runtime套件程式
 影像目標偵測採用SSD Mobilenet V2版本的Tensorflow Lite預訓練模型，因此必須要事先安裝Tensorflow Lite Runtime套件，安裝流程如下：
